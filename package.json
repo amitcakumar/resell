@@ -6,7 +6,6 @@
     "build": "webpack",
     "start": "http-server -c-1 -p 8081 && webpack",
     "dev": "npm run build && npm run start"
-    
   },
   "devDependencies": {
     "autoprefixer": "^9.0.0",
